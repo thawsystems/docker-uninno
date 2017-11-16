@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/version/thawsystems/uninno.svg)](https://microbadger.com/images/thawsystems/uninno "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/thawsystems/uninno.svg)](https://microbadger.com/images/thawsystems/uninno "Get your own image badge on microbadger.com")
+
 # Usage
 
 ```bash
